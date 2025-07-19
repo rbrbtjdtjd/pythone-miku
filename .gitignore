@@ -15,3 +15,6 @@ setting.json
 # 시스템 파일
 .DS_Store
 Thumbs.db
+
+# 민감한 정보
+secret.txt
